@@ -1,7 +1,7 @@
 ## 前置知识
 
 - [x] 掌握操作系统使用
-- [ ] 熟练重装系统
+- [x] 熟练重装系统
 - [ ] 什么是web网站？
     - https://baike.baidu.com/item/web/150564
 - [ ] HTML/CSS/JS
